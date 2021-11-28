@@ -1,19 +1,21 @@
-function criarCurso() {
+var listaCursos = []
+
+function criarCurso(id, titulo, descricao, imagem, nomeProf, listaAulas) {
 
 }
 
-function exibirCurso() {
+function exibirCurso(id) {
 
 }
 
-function atualizarCurso() {
+function atualizarCurso(criarCurso()) {
 
 }
 
-function deletarCurso() {
+function deletarCurso(id) {
 
 }
 
-function listaCursos() {
-
+function listarCursos() {
+  console.log(listaCursos)
 }
