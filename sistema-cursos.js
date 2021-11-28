@@ -1,7 +1,16 @@
 var listaCursos = []
 
 function criarCurso(id, titulo, descricao, imagem, nomeProf, listaAulas) {
-
+  listaCursos.push(
+    var curso = {
+    id: ,
+    titulo: "",
+    descricao: "",
+    imagem: ,
+    nomeProf: "",
+    listaAulas: "",
+  }
+  )
 }
 
 function exibirCurso(id) {
